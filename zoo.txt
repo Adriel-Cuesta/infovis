@@ -1,4 +1,10 @@
-This article provides a brief tour
-through the “visualization zoo,” show-
-casing techniques for visualizing and
-interacting with diverse data sets
+Visualization
+Data
+Interactivity
+Encodings
+Patterns
+Hierarchies
+Multivariate
+Techniques
+Graphical perception
+Accessibility
